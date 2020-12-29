@@ -1,0 +1,361 @@
+year,major_occ,ind1,occ_desc,mthly_gross_wage_50_pctile,mthly_basic_wage_50_pctile
+2019,"professionals, managers & executives",manufacturing,industrial and production engineer,6008,5598
+2019,"professionals, managers & executives",manufacturing,mechanical engineer,5530,5159
+2019,"professionals, managers & executives",manufacturing,manufacturing plant/production manager,8152,7651
+2019,"professionals, managers & executives","food, beverages & tobacco",manufacturing plant/production manager,6440,5999
+2019,"professionals, managers & executives","food, beverages & tobacco",sales and marketing manager,6436,5760
+2019,"professionals, managers & executives","food, beverages & tobacco",industrial and production engineer,5615,5097
+2019,"professionals, managers & executives",paper/ rubber/ plastic product & printing,industrial and production engineer,4517,4080
+2019,"professionals, managers & executives",paper/ rubber/ plastic product & printing,manufacturing plant/production manager,5560,5228
+2019,"professionals, managers & executives",paper/ rubber/ plastic product & printing,managing director/chief executive officer,10725,10000
+2019,"professionals, managers & executives","petroleum, chemical & pharmaceutical products",industrial and production engineer,8254,6576
+2019,"professionals, managers & executives","petroleum, chemical & pharmaceutical products",manufacturing plant/production manager,10268,8495
+2019,"professionals, managers & executives","petroleum, chemical & pharmaceutical products","biologist, botanist, zoologist and related professional",6673,4000
+2019,"professionals, managers & executives","fabricated metal products, machinery & equipment",industrial and production engineer,4517,4277
+2019,"professionals, managers & executives","fabricated metal products, machinery & equipment",manufacturing plant/production manager,5702,5446
+2019,"professionals, managers & executives","fabricated metal products, machinery & equipment",mechanical engineer,4762,4413
+2019,"professionals, managers & executives","electronic, computer & optical products",industrial and production engineer,6127,5709
+2019,"professionals, managers & executives","electronic, computer & optical products",mechanical engineer,6355,5603
+2019,"professionals, managers & executives","electronic, computer & optical products",technical/engineering services manager (eg shipyard manager),10532,10173
+2019,"professionals, managers & executives",transport equipment,mechanical engineer,5016,4922
+2019,"professionals, managers & executives",transport equipment,industrial and production engineer,7152,6834
+2019,"professionals, managers & executives",transport equipment,manufacturing plant/production manager,8702,8584
+2019,"professionals, managers & executives",construction,building and construction project manager,5900,5500
+2019,"professionals, managers & executives",construction,managing director/chief executive officer,7000,7000
+2019,"professionals, managers & executives",construction,technical/engineering services manager (eg shipyard manager),6157,5636
+2019,"professionals, managers & executives",services,financial/insurance services manager (eg financial institution branch manager),9398,9225
+2019,"professionals, managers & executives",services,sales and marketing manager,7256,6829
+2019,"professionals, managers & executives",services,budgeting and financial accounting manager (including financial controller),7800,7700
+2019,"professionals, managers & executives",wholesale and retail trade,sales and marketing manager,7330,6730
+2019,"professionals, managers & executives",wholesale and retail trade,retail/shop sales manager,3871,3240
+2019,"professionals, managers & executives",wholesale and retail trade,budgeting and financial accounting manager (including financial controller),8600,8503
+2019,"professionals, managers & executives",wholesale trade,sales and marketing manager,7470,6881
+2019,"professionals, managers & executives",wholesale trade,budgeting and financial accounting manager (including financial controller),8950,8665
+2019,"professionals, managers & executives",wholesale trade,managing director/chief executive officer,11000,10500
+2019,"professionals, managers & executives",retail trade,retail/shop sales manager,3635,3200
+2019,"professionals, managers & executives",retail trade,sales and marketing manager,5550,5550
+2019,"professionals, managers & executives",retail trade,managing director/chief executive officer,8000,7750
+2019,"professionals, managers & executives",transportation and storage,transport operations manager,6305,5800
+2019,"professionals, managers & executives",transportation and storage,mechanical engineer,4832,4557
+2019,"professionals, managers & executives",transportation and storage,sales and marketing manager,7595,7328
+2019,"professionals, managers & executives",land transport & supporting services,transport operations manager,4723,3996
+2019,"professionals, managers & executives",land transport & supporting services,mechanical engineer,4416,4191
+2019,"professionals, managers & executives",land transport & supporting services,technical/engineering services manager (eg shipyard manager),6388,6112
+2019,"professionals, managers & executives",water transport & supporting services,transport operations manager,6900,6698
+2019,"professionals, managers & executives",water transport & supporting services,network and communications manager,6771,6749
+2019,"professionals, managers & executives",water transport & supporting services,mechanical engineer,4880,4567
+2019,"professionals, managers & executives",air transport & supporting services,transport operations manager,8458,6208
+2019,"professionals, managers & executives",air transport & supporting services,mechanical engineer,5936,5456
+2019,"professionals, managers & executives",air transport & supporting services,sales and marketing manager,6825,5974
+2019,"professionals, managers & executives",accommodation and food services,restaurant manager,3373,3000
+2019,"professionals, managers & executives",accommodation and food services,sales and marketing manager,5040,4758
+2019,"professionals, managers & executives",accommodation and food services,managing director/chief executive officer,3500,3500
+2019,"professionals, managers & executives",accommodation,hotel operations/lodging services manager,3700,3700
+2019,"professionals, managers & executives",accommodation,sales and marketing manager,5250,5093
+2019,"professionals, managers & executives",accommodation,restaurant manager,4332,4325
+2019,"professionals, managers & executives",food & beverage services,restaurant manager,3200,2935
+2019,"professionals, managers & executives",food & beverage services,managing director/chief executive officer,3012,3000
+2019,"professionals, managers & executives",food & beverage services,sales and marketing manager,4100,4000
+2019,"professionals, managers & executives",information and communications,systems analyst,5713,5599
+2019,"professionals, managers & executives",information and communications,it service manager,9690,9547
+2019,"professionals, managers & executives",information and communications,sales and marketing manager,6815,6537
+2019,"professionals, managers & executives","telecommunications, broadcasting & publishing",sales and marketing manager,6500,6500
+2019,"professionals, managers & executives","telecommunications, broadcasting & publishing",telecommunications engineer,5540,5058
+2019,"professionals, managers & executives","telecommunications, broadcasting & publishing","producer (stage, film, television, computer games, video and radio)",4600,4500
+2019,"professionals, managers & executives",it & other information services,systems analyst,5716,5608
+2019,"professionals, managers & executives",it & other information services,it service manager,9682,9545
+2019,"professionals, managers & executives",it & other information services,"software, web and multimedia developer",5117,4849
+2019,"professionals, managers & executives",financial and insurance services,financial/insurance services manager (eg financial institution branch manager),9395,9204
+2019,"professionals, managers & executives",financial and insurance services,financial/investment adviser (eg relationship manager),6150,6150
+2019,"professionals, managers & executives",financial and insurance services,compliance officer/risk analyst (financial),9676,9626
+2019,"professionals, managers & executives",financial services,financial/insurance services manager (eg financial institution branch manager),9460,9300
+2019,"professionals, managers & executives",financial services,financial/investment adviser (eg relationship manager),6200,6200
+2019,"professionals, managers & executives",financial services,compliance officer/risk analyst (financial),10266,10266
+2019,"professionals, managers & executives",insurance,financial/insurance services manager (eg financial institution branch manager),8976,8928
+2019,"professionals, managers & executives",insurance,business development manager,7492,7085
+2019,"professionals, managers & executives",insurance,insurance underwriter,6380,6200
+2019,"professionals, managers & executives",real estate services,premises and facilities maintenance manager (including building security manager),5579,5317
+2019,"professionals, managers & executives",real estate services,mechanical engineer,4284,4200
+2019,"professionals, managers & executives",real estate services,budgeting and financial accounting manager (including financial controller),6391,6391
+2019,"professionals, managers & executives",professional services,budgeting and financial accounting manager (including financial controller),7500,7405
+2019,"professionals, managers & executives",professional services,auditor (accounting),3400,3400
+2019,"professionals, managers & executives",professional services,advocate/solicitor (practising),9000,8250
+2019,"professionals, managers & executives","legal, accounting & management services",auditor (accounting),3400,3400
+2019,"professionals, managers & executives","legal, accounting & management services",budgeting and financial accounting manager (including financial controller),7600,7500
+2019,"professionals, managers & executives","legal, accounting & management services",advocate/solicitor (practising),9000,8250
+2019,"professionals, managers & executives",architectural & engineering services,technical/engineering services manager (eg shipyard manager),8770,8605
+2019,"professionals, managers & executives",architectural & engineering services,mechanical engineer,5283,5088
+2019,"professionals, managers & executives",architectural & engineering services,civil engineer,6000,6000
+2019,"professionals, managers & executives",administrative and support services,sales and marketing manager,6300,5940
+2019,"professionals, managers & executives",administrative and support services,managing director/chief executive officer,6500,6500
+2019,"professionals, managers & executives",administrative and support services,budgeting and financial accounting manager (including financial controller),6600,6474
+2019,"professionals, managers & executives","education, health and social services",education and training institution manager,5586,5500
+2019,"professionals, managers & executives","education, health and social services","registered nurse and other nursing professional (eg clinical nurse, nurse educator, excluding enrolled nurse)",3973,3673
+2019,"professionals, managers & executives","education, health and social services",university lecturer,12961,12843
+2019,"professionals, managers & executives",health & social services,"registered nurse and other nursing professional (eg clinical nurse, nurse educator, excluding enrolled nurse)",3962,3658
+2019,"professionals, managers & executives",health & social services,social work and counselling professional,3930,3918
+2019,"professionals, managers & executives",health & social services,health services manager,7280,6984
+2019,"professionals, managers & executives","arts, entertainment, recreation and other services",human resource manager,7212,6815
+2019,"professionals, managers & executives","arts, entertainment, recreation and other services",recreation centre manager,5000,4782
+2019,"professionals, managers & executives","arts, entertainment, recreation and other services",managing director/chief executive officer,5750,5500
+2019,associate professionals & technicians,manufacturing,manufacturing engineering technician,4090,2873
+2019,associate professionals & technicians,manufacturing,mechanical engineering technician,3985,2980
+2019,associate professionals & technicians,manufacturing,management executive,3655,3537
+2019,associate professionals & technicians,"food, beverages & tobacco",manufacturing engineering technician,4897,2562
+2019,associate professionals & technicians,"food, beverages & tobacco",commercial and marketing sales executive,3280,3280
+2019,associate professionals & technicians,"food, beverages & tobacco",operations officer (except transport operations),4065,3802
+2019,associate professionals & technicians,paper/ rubber/ plastic product & printing,commercial and marketing sales executive,3095,3030
+2019,associate professionals & technicians,"petroleum, chemical & pharmaceutical products",manufacturing engineering technician,5393,3484
+2019,associate professionals & technicians,"petroleum, chemical & pharmaceutical products",chemical engineering technician,5790,3128
+2019,associate professionals & technicians,"petroleum, chemical & pharmaceutical products",chemistry technician,4424,3046
+2019,associate professionals & technicians,"fabricated metal products, machinery & equipment",mechanical engineering technician,3630,2740
+2019,associate professionals & technicians,"fabricated metal products, machinery & equipment",management executive,3210,3136
+2019,associate professionals & technicians,"fabricated metal products, machinery & equipment",manufacturing engineering technician,3794,2720
+2019,associate professionals & technicians,"electronic, computer & optical products",manufacturing engineering technician,3380,2521
+2019,associate professionals & technicians,"electronic, computer & optical products",assistant mechanical engineer,4980,3297
+2019,associate professionals & technicians,"electronic, computer & optical products",assistant manufacturing engineer,3737,3056
+2019,associate professionals & technicians,transport equipment,mechanical engineering technician,4034,3055
+2019,associate professionals & technicians,transport equipment,management executive,3719,3600
+2019,associate professionals & technicians,transport equipment,manufacturing engineering technician,3599,2902
+2019,associate professionals & technicians,construction,civil engineering technician,3300,2996
+2019,associate professionals & technicians,construction,management executive,3000,2952
+2019,associate professionals & technicians,construction,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",3392,3383
+2019,associate professionals & technicians,services,operations officer (except transport operations),3765,3630
+2019,associate professionals & technicians,services,management executive,3600,3530
+2019,associate professionals & technicians,services,pre-primary education teacher,2747,2502
+2019,associate professionals & technicians,wholesale and retail trade,commercial and marketing sales executive,3999,3553
+2019,associate professionals & technicians,wholesale and retail trade,operations officer (except transport operations),3798,3700
+2019,associate professionals & technicians,wholesale and retail trade,management executive,3570,3500
+2019,associate professionals & technicians,wholesale trade,commercial and marketing sales executive,4023,3600
+2019,associate professionals & technicians,wholesale trade,operations officer (except transport operations),3976,3768
+2019,associate professionals & technicians,wholesale trade,management executive,3680,3574
+2019,associate professionals & technicians,retail trade,commercial and marketing sales executive,3826,3300
+2019,associate professionals & technicians,retail trade,operations officer (except transport operations),3358,3161
+2019,associate professionals & technicians,retail trade,mechanical engineering technician,3600,2987
+2019,associate professionals & technicians,transportation and storage,mechanical engineering technician,3220,2742
+2019,associate professionals & technicians,transportation and storage,port/shipping operations supervisor,3415,2768
+2019,associate professionals & technicians,transportation and storage,road transport supervisor,3562,2888
+2019,associate professionals & technicians,land transport & supporting services,road transport supervisor,3559,2862
+2019,associate professionals & technicians,land transport & supporting services,mechanical engineering technician,3546,3006
+2019,associate professionals & technicians,land transport & supporting services,human resource associate professional,3277,3168
+2019,associate professionals & technicians,water transport & supporting services,port/shipping operations supervisor,3414,2768
+2019,associate professionals & technicians,water transport & supporting services,mechanical engineering technician,2560,2402
+2019,associate professionals & technicians,water transport & supporting services,operations officer (except transport operations),3866,3683
+2019,associate professionals & technicians,air transport & supporting services,human resource associate professional,4978,4695
+2019,associate professionals & technicians,air transport & supporting services,commercial and marketing sales executive,4216,4068
+2019,associate professionals & technicians,air transport & supporting services,flight operations officer,4780,3741
+2019,associate professionals & technicians,accommodation and food services,chef,3600,3300
+2019,associate professionals & technicians,accommodation and food services,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",3000,2933
+2019,associate professionals & technicians,accommodation and food services,commercial and marketing sales executive,2668,2600
+2019,associate professionals & technicians,accommodation,chef,3925,3638
+2019,associate professionals & technicians,accommodation,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",3000,3000
+2019,associate professionals & technicians,accommodation,commercial and marketing sales executive,2710,2700
+2019,associate professionals & technicians,food & beverage services,chef,3400,3035
+2019,associate professionals & technicians,food & beverage services,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",3000,2900
+2019,associate professionals & technicians,food & beverage services,operations officer (except transport operations),2375,2039
+2019,associate professionals & technicians,information and communications,computer technician (including it user helpdesk technician),4365,3570
+2019,associate professionals & technicians,information and communications,commercial and marketing sales executive,3695,3450
+2019,associate professionals & technicians,information and communications,broadcasting technician and audio-visual operator,3826,3620
+2019,associate professionals & technicians,"telecommunications, broadcasting & publishing",broadcasting technician and audio-visual operator,3826,3620
+2019,associate professionals & technicians,"telecommunications, broadcasting & publishing",commercial and marketing sales executive,3600,3412
+2019,associate professionals & technicians,"telecommunications, broadcasting & publishing",management executive,3330,3330
+2019,associate professionals & technicians,it & other information services,computer technician (including it user helpdesk technician),5457,4620
+2019,associate professionals & technicians,it & other information services,management executive,4250,4145
+2019,associate professionals & technicians,it & other information services,commercial and marketing sales executive,3888,3500
+2019,associate professionals & technicians,financial and insurance services,operations officer (except transport operations),4150,4089
+2019,associate professionals & technicians,financial and insurance services,management executive,4350,4200
+2019,associate professionals & technicians,financial and insurance services,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",4162,4056
+2019,associate professionals & technicians,financial services,operations officer (except transport operations),4159,4100
+2019,associate professionals & technicians,financial services,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",4185,4162
+2019,associate professionals & technicians,financial services,management executive,4498,4475
+2019,associate professionals & technicians,insurance,operations officer (except transport operations),4120,3989
+2019,associate professionals & technicians,insurance,management executive,4060,4000
+2019,associate professionals & technicians,insurance,valuer and loss assessor,5410,5152
+2019,associate professionals & technicians,real estate services,premises and facilities maintenance officer,3225,3157
+2019,associate professionals & technicians,real estate services,mechanical engineering technician,3098,2826
+2019,associate professionals & technicians,real estate services,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",3300,3300
+2019,associate professionals & technicians,professional services,"accounting associate professional (eg assistant accountant, audit (accounting) executive)",3443,3400
+2019,associate professionals & technicians,professional services,management executive,3626,3500
+2019,associate professionals & technicians,professional services,operations officer (except transport operations),3723,3705
+2019,associate professionals & technicians,"legal, accounting & management services","accounting associate professional (eg assistant accountant, audit (accounting) executive)",3400,3385
+2019,associate professionals & technicians,"legal, accounting & management services",management executive,3685,3450
+2019,associate professionals & technicians,"legal, accounting & management services",operations officer (except transport operations),3763,3738
+2019,associate professionals & technicians,architectural & engineering services,mechanical engineering technician,3412,3000
+2019,associate professionals & technicians,architectural & engineering services,civil engineering technician,4700,4700
+2019,associate professionals & technicians,architectural & engineering services,manufacturing engineering technician,2706,2519
+2019,associate professionals & technicians,administrative and support services,operations officer (except transport operations),3100,2700
+2019,associate professionals & technicians,administrative and support services,commercial and marketing sales executive,3052,2900
+2019,associate professionals & technicians,administrative and support services,management executive,2804,2700
+2019,associate professionals & technicians,"education, health and social services",pre-primary education teacher,2749,2502
+2019,associate professionals & technicians,"education, health and social services",management executive,3500,3470
+2019,associate professionals & technicians,"education, health and social services",operations officer (except transport operations),3400,3350
+2019,associate professionals & technicians,health & social services,pre-primary education teacher,2700,2669
+2019,associate professionals & technicians,health & social services,operations officer (except transport operations),3415,3391
+2019,associate professionals & technicians,health & social services,social work associate professional,2441,2400
+2019,associate professionals & technicians,"arts, entertainment, recreation and other services",human resource associate professional,4674,4201
+2019,associate professionals & technicians,"arts, entertainment, recreation and other services",operations officer (except transport operations),3417,3342
+2019,associate professionals & technicians,"arts, entertainment, recreation and other services","accounting associate professional (eg assistant accountant, audit (accounting) executive)",3585,3488
+2019,"clerical, service & sales workers",manufacturing,general office clerk,2100,2000
+2019,"clerical, service & sales workers",manufacturing,accounting and bookkeeping clerk,2400,2291
+2019,"clerical, service & sales workers",manufacturing,stock clerk,2561,2200
+2019,"clerical, service & sales workers","food, beverages & tobacco",salesperson (door-to-door),2967,1300
+2019,"clerical, service & sales workers","food, beverages & tobacco",sales demonstrator,3320,2953
+2019,"clerical, service & sales workers","food, beverages & tobacco",accounting and bookkeeping clerk,2217,2026
+2019,"clerical, service & sales workers",paper/ rubber/ plastic product & printing,accounting and bookkeeping clerk,2430,2292
+2019,"clerical, service & sales workers","petroleum, chemical & pharmaceutical products",general office clerk,2597,2465
+2019,"clerical, service & sales workers","petroleum, chemical & pharmaceutical products",accounting and bookkeeping clerk,2400,2400
+2019,"clerical, service & sales workers","fabricated metal products, machinery & equipment",general office clerk,1843,1800
+2019,"clerical, service & sales workers","fabricated metal products, machinery & equipment",accounting and bookkeeping clerk,2171,2100
+2019,"clerical, service & sales workers","fabricated metal products, machinery & equipment","receptionist, customer service and information clerk",3300,3048
+2019,"clerical, service & sales workers","electronic, computer & optical products",general office clerk,2998,2929
+2019,"clerical, service & sales workers","electronic, computer & optical products","receptionist, customer service and information clerk",3668,3527
+2019,"clerical, service & sales workers","electronic, computer & optical products",accounting and bookkeeping clerk,2662,2662
+2019,"clerical, service & sales workers",transport equipment,general office clerk,1800,1746
+2019,"clerical, service & sales workers",transport equipment,production clerk,3271,3000
+2019,"clerical, service & sales workers",transport equipment,accounting and bookkeeping clerk,2500,2500
+2019,"clerical, service & sales workers",construction,general office clerk,1320,1316
+2019,"clerical, service & sales workers",construction,accounting and bookkeeping clerk,1600,1600
+2019,"clerical, service & sales workers",construction,secretary,3256,3256
+2019,"clerical, service & sales workers",services,"receptionist, customer service and information clerk",2930,2563
+2019,"clerical, service & sales workers",services,general office clerk,2466,2350
+2019,"clerical, service & sales workers",services,shop sales assistant,2053,1430
+2019,"clerical, service & sales workers",wholesale and retail trade,shop sales assistant,2070,1430
+2019,"clerical, service & sales workers",wholesale and retail trade,cashier,1555,1420
+2019,"clerical, service & sales workers",wholesale and retail trade,sales supervisor,2721,1839
+2019,"clerical, service & sales workers",wholesale trade,shop sales assistant,2200,1600
+2019,"clerical, service & sales workers",wholesale trade,"receptionist, customer service and information clerk",3242,3148
+2019,"clerical, service & sales workers",wholesale trade,accounting and bookkeeping clerk,2666,2600
+2019,"clerical, service & sales workers",retail trade,shop sales assistant,2030,1400
+2019,"clerical, service & sales workers",retail trade,cashier,1555,1420
+2019,"clerical, service & sales workers",retail trade,sales supervisor,2510,1749
+2019,"clerical, service & sales workers",transportation and storage,"receptionist, customer service and information clerk",3023,2485
+2019,"clerical, service & sales workers",transportation and storage,mail carrier and sorting worker,2160,1929
+2019,"clerical, service & sales workers",transportation and storage,general office clerk,3170,2870
+2019,"clerical, service & sales workers",land transport & supporting services,"receptionist, customer service and information clerk",3136,2438
+2019,"clerical, service & sales workers",land transport & supporting services,transport clerk,3046,2355
+2019,"clerical, service & sales workers",land transport & supporting services,clerical supervisor,3265,2809
+2019,"clerical, service & sales workers",water transport & supporting services,accounting and bookkeeping clerk,2963,2940
+2019,"clerical, service & sales workers",water transport & supporting services,transport clerk,2964,2800
+2019,"clerical, service & sales workers",water transport & supporting services,"receptionist, customer service and information clerk",2935,2905
+2019,"clerical, service & sales workers",air transport & supporting services,general office clerk,3459,2997
+2019,"clerical, service & sales workers",air transport & supporting services,"receptionist, customer service and information clerk",2979,2277
+2019,"clerical, service & sales workers",air transport & supporting services,clerical supervisor,4237,3834
+2019,"clerical, service & sales workers",accommodation and food services,waiter,1750,1500
+2019,"clerical, service & sales workers",accommodation and food services,cook,2200,1784
+2019,"clerical, service & sales workers",accommodation and food services,captain waiter/waiter supervisor,2452,2032
+2019,"clerical, service & sales workers",accommodation,"receptionist, customer service and information clerk",2229,2025
+2019,"clerical, service & sales workers",accommodation,security guard,2121,1984
+2019,"clerical, service & sales workers",accommodation,cook,2305,1972
+2019,"clerical, service & sales workers",food & beverage services,waiter,1664,1430
+2019,"clerical, service & sales workers",food & beverage services,cook,2178,1739
+2019,"clerical, service & sales workers",food & beverage services,food service counter attendant,1663,1138
+2019,"clerical, service & sales workers",information and communications,"receptionist, customer service and information clerk",3386,3013
+2019,"clerical, service & sales workers",information and communications,general office clerk,2205,2000
+2019,"clerical, service & sales workers",information and communications,clerical supervisor,3399,2822
+2019,"clerical, service & sales workers","telecommunications, broadcasting & publishing","receptionist, customer service and information clerk",3388,3007
+2019,"clerical, service & sales workers","telecommunications, broadcasting & publishing",general office clerk,2667,2585
+2019,"clerical, service & sales workers","telecommunications, broadcasting & publishing",clerical supervisor,3732,3426
+2019,"clerical, service & sales workers",it & other information services,general office clerk,2009,1641
+2019,"clerical, service & sales workers",financial and insurance services,"receptionist, customer service and information clerk",3889,3649
+2019,"clerical, service & sales workers",financial and insurance services,finance and insurance clerk,3691,3400
+2019,"clerical, service & sales workers",financial and insurance services,bank teller,2958,2500
+2019,"clerical, service & sales workers",financial services,"receptionist, customer service and information clerk",3869,3665
+2019,"clerical, service & sales workers",financial services,finance and insurance clerk,3697,3409
+2019,"clerical, service & sales workers",financial services,bank teller,2958,2500
+2019,"clerical, service & sales workers",insurance,"receptionist, customer service and information clerk",4006,3500
+2019,"clerical, service & sales workers",insurance,secretary,4626,4596
+2019,"clerical, service & sales workers",insurance,general office clerk,2601,2475
+2019,"clerical, service & sales workers",real estate services,general office clerk,2200,2195
+2019,"clerical, service & sales workers",real estate services,cashier,1749,1214
+2019,"clerical, service & sales workers",real estate services,accounting and bookkeeping clerk,2300,2300
+2019,"clerical, service & sales workers",professional services,secretary,4400,4114
+2019,"clerical, service & sales workers",professional services,general office clerk,2500,2400
+2019,"clerical, service & sales workers",professional services,"receptionist, customer service and information clerk",2288,2247
+2019,"clerical, service & sales workers","legal, accounting & management services",secretary,4371,4100
+2019,"clerical, service & sales workers","legal, accounting & management services",general office clerk,2818,2685
+2019,"clerical, service & sales workers","legal, accounting & management services","receptionist, customer service and information clerk",2235,2130
+2019,"clerical, service & sales workers",architectural & engineering services,general office clerk,2100,1990
+2019,"clerical, service & sales workers",architectural & engineering services,accounting and bookkeeping clerk,2300,2300
+2019,"clerical, service & sales workers",administrative and support services,security guard,2384,1300
+2019,"clerical, service & sales workers",administrative and support services,"receptionist, customer service and information clerk",2810,2529
+2019,"clerical, service & sales workers",administrative and support services,general office clerk,2200,2050
+2019,"clerical, service & sales workers","education, health and social services",teachers' aide,2192,1900
+2019,"clerical, service & sales workers","education, health and social services",general office clerk,2261,2206
+2019,"clerical, service & sales workers","education, health and social services","receptionist, customer service and information clerk",2366,2258
+2019,"clerical, service & sales workers",health & social services,general office clerk,2470,2417
+2019,"clerical, service & sales workers",health & social services,"receptionist, customer service and information clerk",2317,2214
+2019,"clerical, service & sales workers",health & social services,healthcare assistant and other personal care worker,1774,1650
+2019,"clerical, service & sales workers","arts, entertainment, recreation and other services",cashier,2844,2638
+2019,"clerical, service & sales workers","arts, entertainment, recreation and other services","receptionist, customer service and information clerk",2389,2273
+2019,"clerical, service & sales workers","arts, entertainment, recreation and other services",general office clerk,2200,2162
+2019,"production & transport operators, cleaners & labourers",manufacturing,electrical and electronic equipment assembler,2159,1430
+2019,"production & transport operators, cleaners & labourers",manufacturing,stationary plant and machine supervisor/general foreman,3570,2822
+2019,"production & transport operators, cleaners & labourers",manufacturing,machine-tool setter-operator,2450,2000
+2019,"production & transport operators, cleaners & labourers","food, beverages & tobacco",hand packer,1374,1211
+2019,"production & transport operators, cleaners & labourers","food, beverages & tobacco","supervisor/general foreman (food processing, woodworking, garment, leather and related trades)",3332,2318
+2019,"production & transport operators, cleaners & labourers","food, beverages & tobacco",stationary plant and machine supervisor/general foreman,4331,2955
+2019,"production & transport operators, cleaners & labourers",paper/ rubber/ plastic product & printing,plastic products machine operator,1511,1042
+2019,"production & transport operators, cleaners & labourers",paper/ rubber/ plastic product & printing,stationary plant and machine supervisor/general foreman,3457,3045
+2019,"production & transport operators, cleaners & labourers",paper/ rubber/ plastic product & printing,"printing, binding and related machine operator",2102,1741
+2019,"production & transport operators, cleaners & labourers","petroleum, chemical & pharmaceutical products",stationary plant and machine supervisor/general foreman,4955,3680
+2019,"production & transport operators, cleaners & labourers","fabricated metal products, machinery & equipment",machine-tool setter-operator,2552,2053
+2019,"production & transport operators, cleaners & labourers","fabricated metal products, machinery & equipment","supervisor/general foreman (metal, machinery and related trades)",3690,3200
+2019,"production & transport operators, cleaners & labourers","fabricated metal products, machinery & equipment",lorry driver,2380,1969
+2019,"production & transport operators, cleaners & labourers","electronic, computer & optical products",electrical and electronic equipment assembler,2249,1437
+2019,"production & transport operators, cleaners & labourers","electronic, computer & optical products",supervisor/general foreman of assembler and quality checker,5894,4509
+2019,"production & transport operators, cleaners & labourers","electronic, computer & optical products",machinery mechanic,3793,2363
+2019,"production & transport operators, cleaners & labourers",transport equipment,"supervisor/general foreman (metal, machinery and related trades)",3379,2954
+2019,"production & transport operators, cleaners & labourers",transport equipment,aircraft engine mechanic and repairer,2844,2369
+2019,"production & transport operators, cleaners & labourers",transport equipment,lorry driver,1300,1300
+2019,"production & transport operators, cleaners & labourers",construction,supervisor/general foreman (building and related trades),2893,2645
+2019,"production & transport operators, cleaners & labourers",construction,lorry driver,2000,1700
+2019,"production & transport operators, cleaners & labourers",construction,supervisor/general foreman (electrical and electronic trades),3398,2745
+2019,"production & transport operators, cleaners & labourers",services,"cleaner in other establishments (eg shopping malls, schools, hospitals, places of worship)",1384,1250
+2019,"production & transport operators, cleaners & labourers",services,bus driver,3845,2455
+2019,"production & transport operators, cleaners & labourers",services,"crane, hoist and related equipment operator",3462,2550
+2019,"production & transport operators, cleaners & labourers",wholesale and retail trade,godown labourer,1675,1651
+2019,"production & transport operators, cleaners & labourers",wholesale and retail trade,hand packer,1513,1350
+2019,"production & transport operators, cleaners & labourers",wholesale and retail trade,lorry driver,2319,2100
+2019,"production & transport operators, cleaners & labourers",wholesale trade,godown labourer,2250,2016
+2019,"production & transport operators, cleaners & labourers",wholesale trade,lorry driver,2322,2070
+2019,"production & transport operators, cleaners & labourers",wholesale trade,hand packer,1416,1227
+2019,"production & transport operators, cleaners & labourers",retail trade,godown labourer,1626,1614
+2019,"production & transport operators, cleaners & labourers",retail trade,hand packer,1513,1380
+2019,"production & transport operators, cleaners & labourers",retail trade,van driver,2057,1950
+2019,"production & transport operators, cleaners & labourers",transportation and storage,bus driver,3870,2470
+2019,"production & transport operators, cleaners & labourers",transportation and storage,"crane, hoist and related equipment operator",3460,2550
+2019,"production & transport operators, cleaners & labourers",transportation and storage,trailer-truck driver (including prime mover driver),2851,1849
+2019,"production & transport operators, cleaners & labourers",land transport & supporting services,bus driver,3870,2470
+2019,"production & transport operators, cleaners & labourers",land transport & supporting services,motor vehicle mechanic,3260,2679
+2019,"production & transport operators, cleaners & labourers",land transport & supporting services,lorry driver,2320,1650
+2019,"production & transport operators, cleaners & labourers",accommodation and food services,kitchen assistant,1655,1400
+2019,"production & transport operators, cleaners & labourers",accommodation and food services,food/drink stall assistant,1200,1200
+2019,"production & transport operators, cleaners & labourers",accommodation and food services,"food and beverage establishment cleaner (eg restaurants, food courts, hawker centres)",1200,1200
+2019,"production & transport operators, cleaners & labourers",accommodation,cleaner and helper in hotels and related establishments,1788,1599
+2019,"production & transport operators, cleaners & labourers",accommodation,building maintenance worker,2133,2053
+2019,"production & transport operators, cleaners & labourers",accommodation,porters and related worker,1875,1766
+2019,"production & transport operators, cleaners & labourers",food & beverage services,kitchen assistant,1655,1400
+2019,"production & transport operators, cleaners & labourers",food & beverage services,food/drink stall assistant,1200,1200
+2019,"production & transport operators, cleaners & labourers",food & beverage services,"food and beverage establishment cleaner (eg restaurants, food courts, hawker centres)",1200,1200
+2019,"production & transport operators, cleaners & labourers",financial and insurance services,chauffeur,3270,2593
+2019,"production & transport operators, cleaners & labourers",real estate services,"cleaner in other establishments (eg shopping malls, schools, hospitals, places of worship)",1457,1320
+2019,"production & transport operators, cleaners & labourers",real estate services,food/drink stall assistant,1552,1200
+2019,"production & transport operators, cleaners & labourers",real estate services,"residential area cleaner (eg hdb estates, condominiums, private apartments, common areas within residential estates)",1300,1298
+2019,"production & transport operators, cleaners & labourers",professional services,"tea server/steward (excluding bartender, barista and food/drink stall assistant)",1880,1743
+2019,"production & transport operators, cleaners & labourers",professional services,van driver,2066,1600
+2019,"production & transport operators, cleaners & labourers",professional services,chauffeur,3053,2255
+2019,"production & transport operators, cleaners & labourers","legal, accounting & management services","tea server/steward (excluding bartender, barista and food/drink stall assistant)",1976,1750
+2019,"production & transport operators, cleaners & labourers","legal, accounting & management services",chauffeur,3075,2255
+2019,"production & transport operators, cleaners & labourers","legal, accounting & management services",van driver,2039,1600
+2019,"production & transport operators, cleaners & labourers",administrative and support services,"cleaner in other establishments (eg shopping malls, schools, hospitals, places of worship)",1360,1200
+2019,"production & transport operators, cleaners & labourers",administrative and support services,cleaning supervisor,2451,1720
+2019,"production & transport operators, cleaners & labourers",administrative and support services,cleaner and helper in hotels and related establishments,1670,1400
+2019,"production & transport operators, cleaners & labourers","education, health and social services","cleaner in other establishments (eg shopping malls, schools, hospitals, places of worship)",1389,1383
+2019,"production & transport operators, cleaners & labourers","education, health and social services",ambulance driver,2037,1700
+2019,"production & transport operators, cleaners & labourers","education, health and social services",van driver,2095,1864
+2019,"production & transport operators, cleaners & labourers",health & social services,"cleaner in other establishments (eg shopping malls, schools, hospitals, places of worship)",1534,1507
+2019,"production & transport operators, cleaners & labourers",health & social services,ambulance driver,2037,1700
+2019,"production & transport operators, cleaners & labourers",health & social services,van driver,2095,1864
+2019,"production & transport operators, cleaners & labourers","arts, entertainment, recreation and other services",hand launderer/presser (non-household),1381,1200
+2019,"production & transport operators, cleaners & labourers","arts, entertainment, recreation and other services","cleaner in other establishments (eg shopping malls, schools, hospitals, places of worship)",1300,1250
+2019,"production & transport operators, cleaners & labourers","arts, entertainment, recreation and other services","sports and recreational attendant (eg golf marshal, golf caddie, fun fair attendant, bowling alley attendant, swimming pool attendant)",2062,1926
