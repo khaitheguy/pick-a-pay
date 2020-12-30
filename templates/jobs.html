@@ -11,7 +11,7 @@
 	</head>
 	
 	<body>
-		<div class="p-3 container bg-light">
+		<div class="p-3 container bg-light text-dark">
 			{% if records %}
 				<div class="alert alert-success" role="alert">
 					{{ records }} jobs match your criteria.
@@ -34,6 +34,13 @@
 				</div>
 				{% endfor %}
 			</div>
+		</div>
+		<div class="p-3 container bg-dark text-light">
+			<p>
+				Contains information from "Median Monthly Basic and Gross Wages of Selected Occupations within Each Major Occupational Groups by Industry"
+				accessed on 29 Dec 2020 from <a href="http://data.gov.sg">data.gov.sg</a> which is made available under the terms of the
+				<a href="https://data.gov.sg/open-data-licence">Singapore Open Data Licence version 1.0</a>
+			</p>
 		</div>
 	</body>
 </html>
