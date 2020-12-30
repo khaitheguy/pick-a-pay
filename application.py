@@ -55,5 +55,10 @@ def index():
 		# Close the database connection
 		conn.close()
 		
+		# Capitalize text that is being used
+		new_rows = []
+		for row in rows:
+			new_rows.append({'occ_desc': row['occ_desc'].title(), 'ind1': row['ind1'].title(), 'mthly_gross_wage_50_pctile': row['mthly_gross_wage_50_pctile']})
+		
 		# Display the jobs on a page
-		return render_template('/jobs.html', records=len(rows), rows=rows)
+		return render_template('/jobs.html', records=len(rows), rows=new_rows)
