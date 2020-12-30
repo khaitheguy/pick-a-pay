@@ -53,7 +53,7 @@ def index():
 		else:
 			db.execute('''SELECT * FROM jobs
 						WHERE mthly_gross_wage_50_pctile >= ?
-						GROUP BY mthly_gross_wage_50_pctile''', (min_salary))
+						ORDER BY mthly_gross_wage_50_pctile''', (min_salary, ))
 		
 		# Get the data for the jobs as a list of dictionaries
 		rows = db.fetchall()
