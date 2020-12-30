@@ -8,16 +8,33 @@ app = Flask(__name__)
 @app.route('/', methods=['GET', 'POST'])
 def index():
 	if request.method == "GET":
-		return render_template('/index.html')
+		# Connect to jobs database
+		conn = sqlite3.connect('jobs.db')
+		
+		# Force sqlite3 to return a dictionary instead of a tuple
+		conn.row_factory = sqlite3.Row
+		
+		db = conn.cursor()
+		
+		# Get the names of every industry listed
+		db.execute('''SELECT DISTINCT ind1 FROM jobs''')
+		rows = db.fetchall()
+		
+		# Close the database connection
+		conn.close()
+					
+		return render_template('/index.html', rows=rows)
 		
 	else:
-		# Get the minimum salary requested by the user
+		# Get user form data
 		try:
 			min_salary = int(request.form.get('salary'))
 			
 		except:
 			# Assume a minimum salary of $0 if input is invalid or empty
 			min_salary = 0
+			
+		industry = request.form.get('industry')
 
 		# Connect to jobs database
 		conn = sqlite3.connect('jobs.db')
@@ -29,8 +46,8 @@ def index():
 		
 		# Query jobs from the database
 		db.execute('''SELECT * FROM jobs
-					WHERE mthly_gross_wage_50_pctile >= ?
-					GROUP BY mthly_gross_wage_50_pctile''', (min_salary, ))
+					WHERE mthly_gross_wage_50_pctile >= ? AND ind1 = ?
+					GROUP BY mthly_gross_wage_50_pctile''', (min_salary, industry))
 		
 		# Get the data for the jobs as a list of dictionaries
 		rows = db.fetchall()

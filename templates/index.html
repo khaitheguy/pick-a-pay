@@ -22,10 +22,13 @@
 					<span class="input-group-text" id="basic-addon1">SGD $</span>
 					<input type="TEXT" class="form-control" name="salary">
 				</div>
-				<label class="form-label">Occupation group</label>
+				<label class="form-label">Industry</label>
 				<div class="mb-3">
-					<select class="form-select">
-						<option value="any">Any</option>
+					<select name="industry" class="form-select">
+						<option value="">Any</option>
+						{% for row in rows %}
+							<option value="{{ row['ind1'] }}">{{ row['ind1'] }}</option>
+						{% endfor %}
 					</select>
 				</div>
 				<button type="submit" class="btn btn-primary">Find a job</button>
