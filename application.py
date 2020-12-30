@@ -45,9 +45,15 @@ def index():
 		db = conn.cursor()
 		
 		# Query jobs from the database
-		db.execute('''SELECT * FROM jobs
-					WHERE mthly_gross_wage_50_pctile >= ? AND ind1 = ?
-					GROUP BY mthly_gross_wage_50_pctile''', (min_salary, industry))
+		if industry:
+			db.execute('''SELECT * FROM jobs
+						WHERE mthly_gross_wage_50_pctile >= ? AND ind1 = ?
+						GROUP BY mthly_gross_wage_50_pctile''', (min_salary, industry))
+		
+		else:
+			db.execute('''SELECT * FROM jobs
+						WHERE mthly_gross_wage_50_pctile >= ?
+						GROUP BY mthly_gross_wage_50_pctile''', (min_salary))
 		
 		# Get the data for the jobs as a list of dictionaries
 		rows = db.fetchall()
