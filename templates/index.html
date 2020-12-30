@@ -1,12 +1,36 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 	<head>
-		<title>Jobs</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+		
+		<title>Jobs</title>
 	</head>
 	
 	<body>
-		<h1>I want to earn...</h1>
+		<div class="d-block p-2 bg-primary bg-gradient text-white">
+			<h1 class="display-1 m-5 text-center">Don't choose your job.</h1>
+			<h1 class="m-3 text-center">Choose your salary.</h1>
+		</div>
+		<div class="d-block p-2 bg-light bg-gradient text-dark">
+			<form class="w-50" style="margin: auto;">
+				<label for="salary" class="form-label">Minimum salary</label>
+				<div class="input-group mb-3">
+					<span class="input-group-text" id="basic-addon1">SGD $</span>
+					<input type="number" class="form-control" id="salary">
+				</div>
+				<label class="form-label">Occupation group</label>
+				<div class="mb-3">
+					<select class="form-select">
+						<option value="any">Any</option>
+					</select>
+				</div>
+				<button type="submit" class="btn btn-primary">Find a job</button>
+			</form>
+		</div>
+		<p class="m-3">Source: <a href="http://data.gov.sg">DATA.GOV.SG</a></p>
 	</body>
 </html>
