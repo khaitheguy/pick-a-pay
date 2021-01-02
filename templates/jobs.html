@@ -1,46 +1,37 @@
-<!DOCTYPE html>
+{% extends "layout.html" %}
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-		
-		<title>Job Listings</title>
-	</head>
-	
-	<body>
-		<div class="p-3 container bg-light text-dark">
-			{% if records %}
-				<div class="alert alert-success" role="alert">
-					{{ records }} jobs match your criteria.
-				</div>
-			{% else %}
-				<div class="alert alert-danger" role="alert">
-					No jobs match your desired salary. Perhaps Amazon is hiring a new CEO?
-				</div>
-			{% endif %}
-			<div class="row row-cols-1 row-cols-md-2 g-4">
-				{% for row in rows %}
-				<div class="col">
-					<div class="card">
-						<div class="card-body">
-							<h5 class="card-title">{{ row['occ_desc'] }}</h5>
-							<h6 class="card-subtitle mb-2 text-muted">{{ row['ind1'] }}</h6>
-							<p class="card-text">$ {{ row['mthly_gross_wage_50_pctile'] }}</p>
-						</div>
+{% block title %}Job Listings{% endblock %}
+
+{% block main %}
+	<div class="p-3 container bg-light text-dark">
+		{% if records %}
+			<div class="alert alert-success" role="alert">
+				{{ records }} jobs match your criteria.
+			</div>
+		{% else %}
+			<div class="alert alert-danger" role="alert">
+				No jobs match your desired salary. Perhaps Amazon is hiring a new CEO?
+			</div>
+		{% endif %}
+		<div class="row row-cols-1 row-cols-md-2 g-4">
+			{% for row in rows %}
+			<div class="col">
+				<div class="card">
+					<div class="card-body">
+						<h5 class="card-title">{{ row['occ_desc'] }}</h5>
+						<h6 class="card-subtitle mb-2 text-muted">{{ row['ind1'] }}</h6>
+						<p class="card-text">$ {{ row['mthly_gross_wage_50_pctile'] }}</p>
 					</div>
 				</div>
-				{% endfor %}
 			</div>
+			{% endfor %}
 		</div>
-		<div class="p-3 container bg-dark text-light">
-			<p>
-				Contains information from "Median Monthly Basic and Gross Wages of Selected Occupations within Each Major Occupational Groups by Industry"
-				accessed on 29 Dec 2020 from <a href="http://data.gov.sg">data.gov.sg</a> which is made available under the terms of the
-				<a href="https://data.gov.sg/open-data-licence">Singapore Open Data Licence version 1.0</a>
-			</p>
-		</div>
-	</body>
-</html>
+	</div>
+	<div class="p-3 container bg-dark text-light">
+		<p>
+			Contains information from "Median Monthly Basic and Gross Wages of Selected Occupations within Each Major Occupational Groups by Industry"
+			accessed on 29 Dec 2020 from <a href="http://data.gov.sg">data.gov.sg</a> which is made available under the terms of the
+			<a href="https://data.gov.sg/open-data-licence">Singapore Open Data Licence version 1.0</a>
+		</p>
+	</div>
+{% endblock %}
